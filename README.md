@@ -20,7 +20,7 @@
 <!-- Short Intro -->
 <h3 align="center"><strong>Hi!</strong></h3>
 <p align="center">
-  Game Hacker • 3D Animator • Reverse Engineering • Psychology • IPSC Competitor • Music Engineering
+  Game Hacking • 3D Animator • Reverse Engineering • Psychology • IPSC Competitor • Music Engineering
   <br/>
 
 </p>
