@@ -33,6 +33,7 @@
 - [Game Manager](https://github.com/xwzrdx/GameManager) - External tool that manipulates memory of any of the supported games.
 - [GBControl](https://github.com/xwzrdx/GBControl) - Internal DLL menu that brings quality of life features to [Ground Branch](https://www.google.com/search?q=Ground+Branch).
 - [Warfare Territory [PRIVATE]](https://github.com/xwzrdx/ArcticCombat) - Server Emulator built from scratch for the game [Arctic Combat](https://www.google.com/search?q=Arctic+Combat) which shutdown in 2013.
+- [Arctic Warfare [PRIVATE]](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for the game [Battle Territory: Battery](https://www.google.com/search?q=Battle+Territory+Battery) which shutdown in 2013.
 - [AC Manager [PRIVATE]](https://github.com/xwzrdx/ACManager) - Tool that completely decompiles & recompiles Arctic Combat's resource loader.
 - [S4 Classic [PRIVATE]](https://github.com/xwzrdx/S4Classic) - Server Emulator with a lot of fixes based on an open source emulator by [@wtfblub](https://github.com/wtfblub/) for [S4 League](https://www.google.com/search?q=S4+League).
 - [eSperControl [PRIVATE]](https://github.com/xwzrdx/eSperControl) - Internal DLL menu bringing a LOT of quality of life to [S4League](https://www.google.com/search?q=S4+League). 
