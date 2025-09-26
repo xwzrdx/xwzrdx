@@ -34,6 +34,7 @@
 - [GBControl](https://github.com/xwzrdx/GBControl) - Internal DLL menu that brings quality of life features to [Ground Branch](https://www.google.com/search?q=Ground+Branch).
 - [TLOU2](https://github.com/xwzrdx/TLOU2) - Internal DLL menu for modding [The Last of Us™ Part II Remastered](https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/).
 - [UniversalLauncher](https://github.com/xwzrdx/UniversalLauncher/) - Lightweight & Easy to use universal game launcher.
+- [DiscordCallRPC](https://github.com/xwzrdx/DiscordCallRPC/) - Rich Presence for Discord Calls.
 - [Warfare Territory [PRIVATE]](https://github.com/xwzrdx/ArcticCombat) - Server Emulator built from scratch for the game [Arctic Combat](https://www.google.com/search?q=Arctic+Combat) which shutdown in 2013.
 - [Arctic Warfare [PRIVATE]](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for the game [Battle Territory: Battery](https://www.google.com/search?q=Battle+Territory+Battery) which shutdown in 2013.
 - [AC Manager [PRIVATE]](https://github.com/xwzrdx/ACManager) - Tool that completely decompiles & recompiles Arctic Combat's & Battle Territory's resource loader.
