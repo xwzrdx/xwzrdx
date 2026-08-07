@@ -30,6 +30,7 @@
 ---
 
 ## Projects
+- [Brawl Busters](https://github.com/xwzrdx/BrawlBusters) - Server Emulator for the game [Brawl Busters](https://www.youtube.com/results?search_query=brawl+busters), which shutdown in September 04, 2013
 - [Game Manager](https://github.com/xwzrdx/GameManager) - External tool that manipulates memory of any of the supported games. Bringing quality of life features.
 - [GBControl](https://github.com/xwzrdx/GBControl) - Internal DLL menu that brings quality of life features to [Ground Branch](https://www.google.com/search?q=Ground+Branch).
 - [TLOU2](https://github.com/xwzrdx/TLOU2) - Internal DLL menu for modding [The Last of Us™ Part II Remastered](https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/).
