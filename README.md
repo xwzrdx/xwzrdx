@@ -18,7 +18,7 @@
 
 
 <!-- Short Intro -->
-<h3 align="center"><strong>Hi!</strong></h3>
+<h3 align="center"><strong>Hi! I'm a huge fan of older MMO games, I try to preserve a lot of these games (for myself mainly) by coding Server Emulators for said games.</strong></h3>
 <p align="center">
   Game Hacking • 3D Animator • Reverse Engineering • Psychology • IPSC • Music Engineering
   <br/>
