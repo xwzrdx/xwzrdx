@@ -42,6 +42,7 @@
 - [FreeJack](https://github.com/xwzrdx/FreeJack) - Server Emulator for the game [FreeJack](https://www.youtube.com/results?search_query=FreeJack+Gameplay), which shutdown somewhere in 2010?
 - [TalesRunner](https://github.com/xwzrdx/TalesRunner) - Server Emulator for the game [Tales Runner](https://www.youtube.com/results?search_query=Tales+Runner+Gameplay) which shutdown April 20, 2017
 - [Project Powder](https://github.com/xwzrdx/ProjectPowder) - Server Emulator for the game [Project Powder](https://www.youtube.com/results?search_query=Project+Powder+Gameplay) which shutdown February 7, 2013
+- [CrossFire](https://github.com/xwzrdx/CrossFire) - Server Emulator for [CrossFire](https://www.youtube.com/results?search_query=CrossFire+Gameplay)
 - [MicroVolts: Supercharged [PRIVATE]](https://github.com/xwzrdx/MVS) - Server Emulator with fixes based on an open source emulator by [@SoWeBegin](https://github.com/SoWeBegin/) for [MicroVolts](https://www.google.com/search?q=MicroVolts).
 - [FumbiNet [PRIVATE]](https://github.com/xwzrdx/S4League) - Server Emulator with a lot of fixes based on an open source emulator by [@wtfblub](https://github.com/wtfblub/) for [S4 League](https://www.google.com/search?q=S4+League).
 - [eSperControl [PRIVATE]](https://github.com/xwzrdx/eSperControl) - Internal DLL menu bringing a LOT of quality of life to [S4League](https://www.google.com/search?q=S4+League). 
