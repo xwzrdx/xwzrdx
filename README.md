@@ -34,6 +34,7 @@
 - [Arctic Warfare [PRIVATE]](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for the game [Battle Territory: Battery](https://www.google.com/search?q=Battle+Territory+Battery) which shutdown in 2013.
 - [Brawl Busters](https://github.com/xwzrdx/BrawlBusters) - Server Emulator for the game [Brawl Busters](https://www.youtube.com/results?search_query=brawl+busters), which shutdown in September 04, 2013
 - [K.O.S: Secret Operations (Sting)](https://github.com/xwzrdx/KOS) - Server Emulator for the game [K.O.S: Secret Operations (Sting)](https://www.youtube.com/results?search_query=KOS+Secret+Operations), which shutdown in March 26, 2013
+- [StreetGears](https://github.com/xwzrdx/StreetGears) - Server Emulator for [StreetGears](https://www.youtube.com/watch?v=U69i98a_u1w) - Shutdown around 2013/2014
 - [FreeJack](https://github.com/xwzrdx/FreeJack) - Server Emulator for the game [FreeJack](https://www.youtube.com/results?search_query=FreeJack+Gameplay), which shutdown somewhere in 2010?
 - [TalesRunner](https://github.com/xwzrdx/TalesRunner) - Server Emulator for the game [Tales Runner](https://www.youtube.com/results?search_query=Tales+Runner+Gameplay) which shutdown April 20, 2017
 - [Project Powder](https://github.com/xwzrdx/ProjectPowder) - Server Emulator for the game [Project Powder](https://www.youtube.com/results?search_query=Project+Powder+Gameplay) which shutdown February 7, 2013
