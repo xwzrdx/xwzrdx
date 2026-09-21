@@ -40,6 +40,7 @@
 - [Blackshot Global](https://github.com/xwzrdx/BlackshotGlobal) - Server Emulator for Blackshot Global 2026
 - [Dizzel](https://github.com/xwzrdx/Dizzel) - Server Emulator for Dizzel
 - [A.V.A Enmasse](https://github.com/xwzrdx/AVA) - Server Emulator for A.V.A Enmasse
+- [MangaFighter](https://github.com/xwzrdx/MangaFighter) - Server Emulator for MangaFighter
 - [FreeJack](https://github.com/xwzrdx/FreeJack) - Server Emulator for the game [FreeJack](https://www.youtube.com/results?search_query=FreeJack+Gameplay), which shutdown somewhere in 2010?
 - [TalesRunner](https://github.com/xwzrdx/TalesRunner) - Server Emulator for the game [Tales Runner](https://www.youtube.com/results?search_query=Tales+Runner+Gameplay) which shutdown April 20, 2017
 - [PiercingBlow](https://github.com/xwzrdx/PiercingBlow) - Server Emulator for [Piercing Blow](https://www.youtube.com/results?search_query=piercing+blow)
