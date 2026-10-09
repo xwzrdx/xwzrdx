@@ -30,8 +30,8 @@
 ---
 
 ## Projects
-- [Warfare Territory [PRIVATE]](https://github.com/xwzrdx/ArcticCombat) - Server Emulator built from scratch for the game [Arctic Combat](https://www.google.com/search?q=Arctic+Combat) which shutdown in 2013.
-- [Arctic Warfare [PRIVATE]](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for the game [Battle Territory: Battery](https://www.google.com/search?q=Battle+Territory+Battery) which shutdown in 2013.
+- [Battle Territory: Battery](https://github.com/xwzrdx/BattleTerritory) - Server Emulator built from scratch for Battle Territory: Battery
+- [Arctic Combat](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for Arctic Combat
 - [Brawl Busters](https://github.com/xwzrdx/BrawlBusters) - Server Emulator for the game [Brawl Busters](https://www.youtube.com/results?search_query=brawl+busters), which shutdown in September 04, 2013
 - [K.O.S: Secret Operations (Sting)](https://github.com/xwzrdx/KOS) - Server Emulator for the game [K.O.S: Secret Operations (Sting)](https://www.youtube.com/results?search_query=KOS+Secret+Operations), which shutdown in March 26, 2013
 - [StreetGears](https://github.com/xwzrdx/StreetGears) - Server Emulator for [StreetGears](https://www.youtube.com/watch?v=U69i98a_u1w) - Shutdown around 2013/2014
@@ -53,7 +53,7 @@
 - [CrossFire](https://github.com/xwzrdx/CrossFire) - Server Emulator for [CrossFire](https://www.youtube.com/results?search_query=CrossFire+Gameplay)
 - [Line of Sight](https://github.com/xwzrdx/LineOfSight) - Server Emulator for Line of Sight
 - [MicroVolts: Supercharged [PRIVATE]](https://github.com/xwzrdx/MVS) - Server Emulator with fixes based on an open source emulator by [@SoWeBegin](https://github.com/SoWeBegin/) for [MicroVolts](https://www.google.com/search?q=MicroVolts).
-- [FumbiNet [PRIVATE]](https://github.com/xwzrdx/S4League) - Server Emulator with a lot of fixes based on an open source emulator by [@wtfblub](https://github.com/wtfblub/) for [S4 League](https://www.google.com/search?q=S4+League).
+- [S4 League](https://github.com/xwzrdx/S4League) - Server Emulator with a lot of fixes based on an open source emulator by [@wtfblub](https://github.com/wtfblub/) for [S4 League](https://www.google.com/search?q=S4+League).
 - [AC Manager [PRIVATE]](https://github.com/xwzrdx/ACManager) - Tool that completely decompiles & recompiles Arctic Combat's & Battle Territory's resource loader.
 
 
