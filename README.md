@@ -54,7 +54,7 @@
 - [Line of Sight](https://github.com/xwzrdx/LineOfSight) - Server Emulator for Line of Sight
 - [MicroVolts: Supercharged [PRIVATE]](https://github.com/xwzrdx/MVS) - Server Emulator with fixes based on an open source emulator by [@SoWeBegin](https://github.com/SoWeBegin/) for [MicroVolts](https://www.google.com/search?q=MicroVolts).
 - [S4 League](https://github.com/xwzrdx/S4League) - Server Emulator with a lot of fixes based on an open source emulator by [@wtfblub](https://github.com/wtfblub/) for [S4 League](https://www.google.com/search?q=S4+League).
-- [AC Manager [PRIVATE]](https://github.com/xwzrdx/ACManager) - Tool that completely decompiles & recompiles Arctic Combat's & Battle Territory's resource loader.
+
 
 
 ---
