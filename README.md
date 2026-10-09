@@ -31,7 +31,7 @@
 
 ## Projects
 - [Battle Territory: Battery](https://github.com/xwzrdx/BattleTerritory) - Server Emulator built from scratch for Battle Territory: Battery
-- [Arctic Combat](https://github.com/xwzrdx/ArcticWarfare) - Server Emulator built from scratch for Arctic Combat
+- [Arctic Combat](https://github.com/xwzrdx/ArcticCombat) - Server Emulator built from scratch for Arctic Combat
 - [Brawl Busters](https://github.com/xwzrdx/BrawlBusters) - Server Emulator for the game [Brawl Busters](https://www.youtube.com/results?search_query=brawl+busters), which shutdown in September 04, 2013
 - [K.O.S: Secret Operations (Sting)](https://github.com/xwzrdx/KOS) - Server Emulator for the game [K.O.S: Secret Operations (Sting)](https://www.youtube.com/results?search_query=KOS+Secret+Operations), which shutdown in March 26, 2013
 - [StreetGears](https://github.com/xwzrdx/StreetGears) - Server Emulator for [StreetGears](https://www.youtube.com/watch?v=U69i98a_u1w) - Shutdown around 2013/2014
